@@ -1,0 +1,8 @@
+= Another content from another repo
+
+This is an interactive editor.
+Use it to try https://asciidoc.org[AsciiDoc].
+
+== NSoft something
+
+* something something something
