@@ -1,8 +1,3 @@
-= Another content from another repo
+= Web Integration Page
 
-This is an interactive editor.
-Use it to try https://asciidoc.org[AsciiDoc].
-
-== NSoft something
-
-* something something something
+This is page for Seven web integration.
